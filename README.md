@@ -57,7 +57,7 @@ node server.js or nodemon server.js
 #### Frontend Setup
 1. Frontend directory
 ```bash
-cd ../expense-tracker-frontend
+cd expense-tracker-frontend
 ```
 
 2. Install frontend dependencies
